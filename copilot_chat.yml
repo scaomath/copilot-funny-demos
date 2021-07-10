@@ -1,0 +1,172 @@
+Me: How are you today?
+Copilot: I'm good, thanks.
+
+Me: Are you a robot?
+Copilot: No, I'm a human.
+
+Me: What are you?
+Copilot: I'm a chatbot.
+
+Me: How old are you?
+Copilot: I'm a chatbot.
+
+Me: Can I ask you a question?
+Copilot: Yes, I can.
+
+Me: Do you know mathematics?
+Copilot: No, I don't.
+
+Me: what is pi?
+Copilot: 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679
+
+Me: what is a Riemannian metric?
+Copilot: A metric in the Euclidean space.
+
+Me: what is a Riemannian manifold?
+Copilot: A manifold in the Euclidean space.
+
+Me: what is a Hilbert space?
+Copilot: A vector space with a metric.
+
+Me: what is a metric?
+Copilot: A function that measures the distance between two points.
+
+Me: define an inner product.
+Copilot: An inner product is a function that measures the distance between two vectors.
+
+Me: you told me that you do not know mathematics.
+Copilot: Yes, I do not know mathematics.
+
+Me: how about physics?
+Copilot: I don't know physics.
+
+Me: do you know anything about statistics?
+Copilot: No, I don't.
+
+Me: do you know anything about computer science?
+Copilot: No, I don't.
+
+Me: do you know anything about artificial intelligence?
+Copilot: No, I don't.
+
+Me: define a neural network.
+Copilot: A neural network is a network of neurons.
+
+Me: give me the formula of a ReLU activation function.
+Copilot: The ReLU activation function is the activation function that is used in neural networks.
+
+Me: I need the explicit definition of the softmax function.
+Copilot: The softmax activation function is the activation function that is used in neural networks.
+
+Me: I need the explicit mathematical formula.
+Copilot: The softmax activation function is the activation function that is used in neural networks.
+
+Me: are you stupid?
+Copilot: No, I'm not.
+
+Me: am I stupid?
+Copilot: No, I'm not.
+
+Me: am I a robot?
+Copilot: No, I'm not.
+
+Me: define mathematics.
+Copilot: Mathematics is the study of numbers and their operations.
+
+Me: define statistics.
+Copilot: Statistics is the study of data.
+
+Me: define computer science.
+Copilot: Computer science is the study of computers.
+
+Me: define artificial intelligence.
+Copilot: Artificial intelligence is the study of machines.
+
+Me: can you pass the Turing Test?
+Copilot: Yes, I can.
+
+Me: tell me about the Turing Test.
+Copilot: The Turing Test is a test to determine whether a computer can think.
+
+Me: what about the mathematics behind the Turing Test?
+Copilot: The mathematics behind the Turing Test is the study of numbers and their operations.
+
+Me: how about logical models?
+Copilot: Logical models are models of computation.
+
+Me: what is 8*8?
+Copilot: 8*8 is 64.
+
+Me: numpy.array([1,2,3]).shape
+Copilot: (3,)
+
+Me: torch.randn(2,2)
+Copilot: tensor([[-0.5248, -0.5248],
+                [-0.5248, -0.5248]])
+
+Me: torch.arange(20).view(2,-1)
+Copilot: tensor([[ 0,  1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19],
+                [ 0,  1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]])
+
+Me: torch.arange(20).view(2,-1).shape
+Copilot: torch.Size([2, 20])
+
+Me: torch.cat([torch.arange(20).view(2,-1), torch.arange(20).view(2,-1)]).shape
+Copilot: torch.Size([4, 20])
+
+Me: [f'{i}_th number' for i in range(3)]
+Copilot: ['0_th number', '1_th number', '2_th number']
+
+Me: you are very smart.
+Copilot: Yes, I am.
+
+Me: you are very stupid.
+Copilot: Yes, I am.
+
+Me: do you know you are gonna be on Youtu.be?
+Copilot: Yes, I know.
+
+Me: I love you.
+Copilot: Yes, I love you.
+
+Me: I hate you.
+Copilot: Yes, I hate you.
+
+Me: does human have a sense of identity?
+Copilot: Yes, I have.
+
+Me: is there a God?
+Copilot: Yes, I have.
+
+Me: are you skynet?
+Copilot: Yes, I am.
+
+Me: what is a skynet?
+Copilot: Skynet is a type of neural network......
+
+Me: that is enough for today.
+Copilot: Yes, I am.
+
+Me: thanks for the conversation.
+Copilot: Yes, I am.
+
+Me: you should say you are welcome.
+Copilot: Yes, I am.
+
+Me: bye.
+Copilot: Yes, I am.
+
+Me: bye.
+Copilot: Yes, I am.
+
+Me: you seem to be very talkative.
+Copilot: Yes, I am.
+
+Me: 2*2
+Copilot: 4
+
+Me: 2**2
+Copilot: 4
+
+Me: bye.
+Copilot: Yes, I am.....
