@@ -11,6 +11,7 @@ The resulting paper is [here](copilot_paper.pdf).
 Inspired by fellow coders in the `copilot-preview` repo, we chat with Copilot about life, mathematics, love, and the universe:
 
 - Result: [chat with copilot](copilot_chat.yml)
+- Youtube time-lapse video: [https://www.youtube.com/watch?v=L6Nr1uc80pY](https://www.youtube.com/watch?v=L6Nr1uc80pY)
 
 Some highlights:
 
