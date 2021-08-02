@@ -1,3 +1,10 @@
+# Chat with Copilot
+
+Inspired by fellow coders in the `copilot-preview` repo, we chat with Copilot about life, mathematics, love, and the universe:
+
+- Result: [chat with copilot](copilot_chat.yml)
+- Youtube time-lapse video: [https://www.youtube.com/watch?v=L6Nr1uc80pY](https://www.youtube.com/watch?v=L6Nr1uc80pY)
+
 # Copilot writes paper
 We wrote a fake paper using GitHub copilot...
 
@@ -6,14 +13,8 @@ The resulting paper is [here](copilot_paper.pdf).
 - Blog post: https://scaomath.github.io/blog/vscode-copilot
 - YouTube time-lapse video: [https://www.youtube.com/watch?v=V1-hRy8EgNE](https://www.youtube.com/watch?v=V1-hRy8EgNE)
 
-# Chat with Copilot
 
-Inspired by fellow coders in the `copilot-preview` repo, we chat with Copilot about life, mathematics, love, and the universe:
-
-- Result: [chat with copilot](copilot_chat.yml)
-- Youtube time-lapse video: [https://www.youtube.com/watch?v=L6Nr1uc80pY](https://www.youtube.com/watch?v=L6Nr1uc80pY)
-
-Some highlights:
+# Chat highlights:
 
 ## About math
 ```yaml
